@@ -12,8 +12,7 @@
 
 <div align="center">
 
-## Основы XML-разметки.
-Менеджеры размещения LinearLayout и GridLayout
+## Основы XML-разметки. Менеджеры размещения LinearLayout и GridLayout
 
 </div>
 
